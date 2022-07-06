@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=callummclu)]()
+
+
 <!--
 **callummclu/callummclu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
