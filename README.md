@@ -1,7 +1,7 @@
 ### Hi there 👋 im currently a software developer at Guitarguitar as an intern whilst studying computing science at the University of Glasgow
 
 - 🔭 I’m currently working on 'MCK Joinery & Glazing' work portfolio site and CMS Section.
-- 🌱 I’m currently learning springboot and how java is used in the backend.
+- 🌱 I’m currently learning golang and using it for backend development.
 - 😄 Pronouns: he/him
 
 
