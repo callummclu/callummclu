@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 
 ### ⚙️ Technologies & Tools
-![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)&nbsp;&nbsp;&nbsp;&nbsp; ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png)
 
 
 ### 🧬 My stats:
