@@ -8,7 +8,7 @@
 <div style="display:flex">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="TypeScript" height="100"/>
-  <img src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" alt="TypeScript" height="100"/>
+  <img src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" alt="Java" height="100"/>
   
   
 </div>
