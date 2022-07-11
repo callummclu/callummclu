@@ -5,7 +5,8 @@
 - 😄 Pronouns: he/him
 
 ### ⚙️ Technologies & Tools
-![React](react)&nbsp;&nbsp;&nbsp;&nbsp;
+![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+### 🧬 My stats:
 [![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=callummclu&theme=tokyonight&show_icons=true)]()
