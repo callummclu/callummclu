@@ -4,4 +4,8 @@
 - 🌱 I’m currently learning springboot and how java is used in the backend.
 - 😄 Pronouns: he/him
 
-[![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=callummclu&darkmode=true)]()
+### ⚙️ Technologies & Tools
+![React](react)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+[![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=callummclu&theme=tokyonight&show_icons=true)]()
