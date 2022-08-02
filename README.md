@@ -27,7 +27,7 @@
 
 
 ### 🧬 My stats:
-[![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=callummclu&theme=panda&show_icons=true)]()
+[![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=callummclu&show_icons=true)]()
 
 ### My Languages stats:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callummclu&theme=panda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callummclu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
