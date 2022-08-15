@@ -8,8 +8,8 @@ Software engineer
 
 *   🌍  I'm based in Glasgow
 *   ✉️  You can contact me at [callummcluskey100@gmail.com](mailto:callummcluskey100@gmail.com)
-*   🚀  I'm currently working on [Mck joinery glazing](http://Mckjoineryglazing.co.uk)
-*   🧠  I'm learning Gin and Vue3
+*   🚀  I'm currently working on [Mck joinery glazing](https://Mckjoineryglazing.co.uk) & [Gocial Media](https://github.com/callummclu/gocial-media)
+*   🧠  I'm learning Gin
 
 ### Skills
 <p align="left">
