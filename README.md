@@ -8,8 +8,8 @@ Software engineer
 
 *   🌍  I'm based in Glasgow
 *   ✉️  You can contact me at [callummcluskey100@gmail.com](mailto:callummcluskey100@gmail.com)
-*   🚀  I'm currently working on a react component library
-*   🧠  I'm learning Gin
+*   🚀  I'm currently working on building a set of espruino packages for my dissertation
+*   🧠  I'm learning how to build npm packages and npx tools
 
 ### Skills
 <p align="left">
