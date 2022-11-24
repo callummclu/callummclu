@@ -6,11 +6,6 @@ Software engineer
 
 4th year student at the university of glasgow working as an intern at Guitarguitar
 
-*   🌍  I'm based in Glasgow
-*   ✉️  You can contact me at [callummcluskey100@gmail.com](mailto:callummcluskey100@gmail.com)
-*   🚀  I'm currently working on building a set of espruino packages for my dissertation
-*   🧠  I'm learning how to build npm packages and npx tools
-
 ### Skills
 <p align="left">
                                 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
