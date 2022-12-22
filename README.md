@@ -34,6 +34,11 @@ Software engineer
 
 ### Badges
 <b>My GitHub Stats</b><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callummclu&layout=compact)
+<div style="display:flex">
 
-![Callums's GitHub stats](https://github-readme-stats.vercel.app/api?username=callummclu&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=callummclu&show_icons=true">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callummclu&layout=compact">
+
+</div>
