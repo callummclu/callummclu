@@ -4,7 +4,7 @@ Hi ! 👋 My name is Callum McLuskey
 Software engineer
 -----------------
 
-4th year student at the university of glasgow working as an intern at Guitarguitar
+4th year student at the university of glasgow working as an graduate software engineer
 
 ### Skills
 <p align="left">
