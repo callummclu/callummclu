@@ -4,7 +4,7 @@ Hi ! 👋 My name is Callum McLuskey
 Software engineer
 -----------------
 
-4th year student at the university of glasgow working as an graduate software engineer
+Software Engineer with 2 years of experience currently at JPMorganChase
 
 ### Skills
 <p align="left">
